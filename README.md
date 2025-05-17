@@ -1,128 +1,94 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Hemant</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <h1>Hey there, I'm <a href="https://learrnsimply.com">Ahmed Adel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h3>🇪🇬 Flutter Developer | 🎓 Arabic Content Creator | 🎥 YouTuber @ Learn Simply</h3>
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
 </div>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
- </p>
-
-
+<p align="center">
+   <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/ahmed.aaddel"><img height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg"></a>&nbsp;&nbsp;
+   <a href="https://facebook.com/ahmed.learnsimply"><img height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg"></a>&nbsp;&nbsp;
+   <a href="https://learrnsimply.com"><img height="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Internet.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img height="30" src="https://raw.githubusercontent.com/youtube/logos/master/png/social/yt_logo_rgb_light.png"></a>
+</p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Ahmed Adel | 💻 Flutter Dev | 🎤 Educator | 🇪🇬 Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-
-
 <p align="center">
-   <a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
- </p>
- 
- <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
- 
- 
-<br />
+   <a href="https://visitor-badge.glitch.me/badge?page_id=ahmedlearnSimply.ahmedlearnSimply"> 
+     <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ahmedlearnSimply.ahmedlearnSimply"> 
+   </a>
+</p>
+
+<h5 align="center">
+   <i>⚡️ Teaching code in Arabic to inspire the next generation of developers ⚡️</i>
+</h5>
+
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center">
-  <h3> I'm 21 years old Full-Stack developer from India.</h3>
-</p>
 
- - 🥀 Learning Swift & Objective_C
- 
- - <i>with Javascript, Typescript, React and 69 others.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
+---
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
- 
- - I do fullstack and a bit of everything :heart:
- 
- - All About living life at its best.
- 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
- 
- <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
-   </p>
+## 👨‍🏫 About Me
 
-<!--  -->
+- 💻 I build beautiful and animated **Flutter apps**
+- 🌍 Founder of [learrnsimply.com](https://learrnsimply.com)
+- 📺 I teach over **230K subscribers** on YouTube in Arabic
+- 🧠 I create content on **Flutter, Python, Java, C++, and GitHub**
+- 🎯 My mission is to simplify learning for Arabic speakers
+- ✨ I design full **UI Kits**, animations, and clean reusable components
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
-  </a>
+---
 
-</p>
-
-<br />
-
-### - Languages and Tools...
+## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/dart.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/flutter.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/cpp.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" width="30">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/github.svg" width="30">
 </p>
 
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
+---
 
-
-
- ### - What i do
-
-
-<br />
+## 📊 GitHub Stats
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br />
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=radical" />
 </p>
-<p align="center">Made with ❤️ in India</p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+---
+
+## 🎯 What I Do
+
+- 🎬 Teach programming on [YouTube](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
+- 🛠 Build Flutter apps with animation
+- 💼 Help students break into tech
+- 📚 Create full Arabic programming courses
+- 💬 Share tips about GitHub, VS Code, and app design
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
 </p>
 
+---
+
+## 🤝 Support
+
+<p align="center">
+  🎀 Contributions, ⭐ stars, and 🔥 feedback are always welcome!  
+  💙 If you find my work helpful, share it and help more people learn!
+</p>
+
+<p align="center">Made with ❤️ in Egypt</p>
+
+<h1 align="center">⚡️<i>Keep learning, keep building</i>⚡️</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
